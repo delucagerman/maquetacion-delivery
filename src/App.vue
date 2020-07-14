@@ -1,28 +1,25 @@
 <template>
-  <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
-  </div>
+	<div id="app">
+		<Menu />
+		<Restaurans />
+		<Options />
+		<Kitchen />
+	</div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import Menu from './components/sections/Menu';
+import Restaurans from './components/sections/Restaurans';
+import Options from './components/sections/Options';
+import Kitchen from './components/sections/Kitchen';
 
 export default {
-  name: 'App',
-  components: {
-    HelloWorld
-  }
-}
+	name: 'App',
+	components: {
+		Menu,
+		Restaurans,
+		Options,
+		Kitchen,
+	},
+};
 </script>
-
-<style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
-</style>
