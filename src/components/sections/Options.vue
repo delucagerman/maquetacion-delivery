@@ -1,6 +1,6 @@
 <template>
 	<div class="container  mx-auto py-10 px-16">
-		<h2 class="font-sans font-extrabold text-4xl my-6">
+		<h2 class="font-sans font-extrabold text-3.5xl my-6">
 			Quieres mas opciones?
 		</h2>
 		<ul class="flex w-4/5 flex-wrap list-reset">

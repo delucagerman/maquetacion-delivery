@@ -1,7 +1,7 @@
 <template>
 	<div class="bg-orange-200 px-16">
-		<div class="container mx-auto px-10 py-6 pb-16">
-			<h2 class="font-sans font-extrabold text-5xl my-6">
+		<div class="container mx-auto py-6 pb-16">
+			<h2 class="font-sans font-extrabold text-3.5xl my-6">
 				A ti te encanta, nosotros te lo levamos
 			</h2>
 			<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">

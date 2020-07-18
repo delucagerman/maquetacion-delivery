@@ -72,7 +72,8 @@ module.exports = {
         700: '#2f855a',
         800: '#276749',
         900: '#22543d',
-        901: '#00a396'
+        901: '#00a396',
+        902: '#00ccbc'
       },
       teal: {
         100: '#e6fffa',
@@ -152,7 +153,9 @@ module.exports = {
       '40': '10rem',
       '45': '11rem',
       '48': '12rem',
+      '52': '13.125rem',
       '56': '14rem',
+      '60': '15rem',
       '64': '16rem',
     },
     backgroundColor: theme => theme('colors'),
@@ -268,6 +271,7 @@ module.exports = {
       xl: '1.25rem',
       '2xl': '1.5rem',
       '3xl': '1.875rem',
+      '3.5xl': '2rem',
       '4xl': '2.25rem',
       '5xl': '3rem',
       '6xl': '4rem',
