@@ -66,13 +66,19 @@
 		<section class="grid grid-cols-2">
 			<div class="mt-5">
 				<a href=""
-					><i class="fab fa-facebook text-white text-2xl"></i
+					><i
+						class="fab fa-facebook text-white text-2xl hover:text-blue-902"
+					></i
 				></a>
 				<a href=""
-					><i class="fab fa-twitter text-white text-2xl ml-5"></i
+					><i
+						class="fab fa-twitter text-white text-2xl hover:text-blue-903 ml-5"
+					></i
 				></a>
 				<a href=""
-					><i class="fab fa-instagram text-white text-2xl ml-5"></i
+					><i
+						class="fab fa-instagram text-white text-2xl hover:text-orange-999 ml-5"
+					></i
 				></a>
 			</div>
 			<div class="flex justify-end mt-5">

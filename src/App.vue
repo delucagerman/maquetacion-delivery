@@ -1,5 +1,6 @@
 <template>
 	<div id="app">
+		<Header />
 		<Menu />
 		<Restaurans />
 		<Options />
@@ -16,6 +17,7 @@ import Options from './components/sections/Options';
 import Kitchen from './components/sections/Kitchen';
 import Team from './components/sections/Team';
 import Footer from './components/sections/Footer';
+import Header from './components/sections/Header';
 
 export default {
 	name: 'App',
@@ -26,6 +28,7 @@ export default {
 		Kitchen,
 		Team,
 		Footer,
+		Header,
 	},
 };
 </script>
