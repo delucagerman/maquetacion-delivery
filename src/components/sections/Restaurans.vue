@@ -1,5 +1,5 @@
 <template>
-	<div class="bg-orange-200 px-16">
+	<div class="bg-orange-200 px-20">
 		<div class="container mx-auto py-6 pb-16">
 			<h2 class="font-sans font-extrabold text-3.5xl my-6">
 				A ti te encanta, nosotros te lo levamos

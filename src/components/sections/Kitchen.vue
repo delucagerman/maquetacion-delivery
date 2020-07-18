@@ -1,6 +1,6 @@
 <template>
 	<div class="py-4  bg-gray-200">
-		<div class="container mx-auto px-16">
+		<div class="container mx-auto px-20">
 			<h2 class="font-sans font-extrabold text-3.5xl my-6">
 				Directo desde la cocina
 			</h2>

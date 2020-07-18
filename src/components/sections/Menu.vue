@@ -1,5 +1,5 @@
 <template>
-	<div class="container mx-auto px-16">
+	<div class="container mx-auto px-20">
 		<h2 class="font-sans font-extrabold text-5xl my-6">
 			Que hay en el menú?
 		</h2>

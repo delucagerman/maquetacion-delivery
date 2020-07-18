@@ -1,5 +1,5 @@
 <template>
-	<div class="container  mx-auto py-10 px-16">
+	<div class="container  mx-auto py-10 px-20 mb-16">
 		<h2 class="font-sans font-extrabold text-3.5xl my-6">
 			Equipo Deliveroo
 		</h2>
