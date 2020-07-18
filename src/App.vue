@@ -4,6 +4,7 @@
 		<Restaurans />
 		<Options />
 		<Kitchen />
+		<Team />
 	</div>
 </template>
 
@@ -12,6 +13,7 @@ import Menu from './components/sections/Menu';
 import Restaurans from './components/sections/Restaurans';
 import Options from './components/sections/Options';
 import Kitchen from './components/sections/Kitchen';
+import Team from './components/sections/Team';
 
 export default {
 	name: 'App',
@@ -20,6 +22,7 @@ export default {
 		Restaurans,
 		Options,
 		Kitchen,
+		Team,
 	},
 };
 </script>

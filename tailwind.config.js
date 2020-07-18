@@ -19,6 +19,7 @@ module.exports = {
       white: '#fff',
 
       gray: {
+        901: '#bac3c3',
         100: '#f7fafc',
         200: '#f9fafa',
         300: '#e2e8f0',
@@ -39,6 +40,7 @@ module.exports = {
         700: '#c53030',
         800: '#9b2c2c',
         900: '#742a2a',
+        901: '#ff483b',
       },
       orange: {
         100: '#fffaf0',
@@ -50,6 +52,7 @@ module.exports = {
         700: '#c05621',
         800: '#9c4221',
         900: '#7b341e',
+        901: '#ff8100',
       },
       yellow: {
         100: '#fffff0',
